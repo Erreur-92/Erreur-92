@@ -37,7 +37,6 @@ Si vous avez des questions ou souhaitez en savoir plus sur mes projets, vous pou
 
 - **Email** : [evan.verplaetse@epitech.eu](evan.verplaetse@epitech.eu) ✉️
 - **GitHub** : [github.com/Erreur-92](https://github.com/Erreur-92) 🔗
-
----
+- **LinkedIn** : [Evan Verplaetse](https://www.linkedin.com/in/evan-verplaetse-b28b652b9/)
 
 Merci d'avoir visité mon dépôt ! 🎉
